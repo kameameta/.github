@@ -1,5 +1,6 @@
 <img src="https://github.com/kameameta/.github/raw/main/mea.png" width="50%" height="50%">
-# Mea
+
+## Mea
 
 A starting point to **make** great **things**.
 
