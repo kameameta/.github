@@ -1,5 +1,4 @@
-![mea](https://github.com/kameameta/.github/raw/main/mea.png){:height="50%" width="50%"}
-
+<img src="https://github.com/kameameta/.github/raw/main/mea.png" width="50%" height="50%">
 # Mea
 
 A starting point to **make** great **things**.
