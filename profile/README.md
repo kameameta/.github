@@ -1,4 +1,4 @@
-![mea](https://github.com/kameameta/.github/raw/main/mea.png)
+![mea](https://github.com/kameameta/.github/raw/main/mea.png){:height="50%" width="50%"}
 
 # Mea
 
